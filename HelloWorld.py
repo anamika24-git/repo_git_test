@@ -1,2 +1,3 @@
-print "Hello World"
-print "Hello World"
+a = 4
+b = 2
+print(a+b)
